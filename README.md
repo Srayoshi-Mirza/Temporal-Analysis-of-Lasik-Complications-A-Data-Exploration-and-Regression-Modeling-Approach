@@ -47,6 +47,7 @@ Potential applications of the dataset include identifying key complications, ent
    - Created a distribution graph using a heatmap to visualize the frequency of reported complications over time.
 ![Graph1](Project_Secrenshoots/graph_distribution.png)
 ![Graph2](Project_Secrenshoots/graph_dis_2.png)
+
  **Preprocessing the Data:**
  - Checked for missing values in the dataset and dropped rows with missing values.
  - Converted the 'date' column to datetime format.
@@ -59,10 +60,12 @@ Potential applications of the dataset include identifying key complications, ent
  **Before Checking and Removing Outlier:**
    - Visualized the box plot of features before outlier removal, providing an initial understanding of the data distribution.
 ![Graph3](Project_Secrenshoots/Box_Plot_of_Features_Before_Outlier_Removal.png)
+
  **After Checking and Removing Outliers:**
    - Employed z-scores to identify and remove outliers from the dataset.
    - Visualized the box plot after outlier removal to observe the impact on data distribution.
 ![Graph4](Project_Secrenshoots/Box_Plot_of_Features_After_Outlier_Removal.png)
+
  **Feature Engineering:**
    - Extracted year, month, and quarter from the 'date' column to enhance the dataset with additional temporal features.
 
@@ -82,6 +85,7 @@ Potential applications of the dataset include identifying key complications, ent
     - Visualized the predicted complications versus actual complications over time using a scatter plot, providing a qualitative assessment of the model's performance.
 
 ![Graph5](Project_Secrenshoots/Actual_vs_predic.png)
+
 ## About the Author
 
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
