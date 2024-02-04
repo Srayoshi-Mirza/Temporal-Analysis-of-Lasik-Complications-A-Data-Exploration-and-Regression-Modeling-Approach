@@ -82,6 +82,24 @@ Potential applications of the dataset include identifying key complications, ent
 
 ![Graph5](Project_Secrenshoots/Actual_vs_predic.png)
 
+1. **Distribution of Reported Complications Over Time:**
+
+   The count plot illustrates the distribution of reported complications over the years. A noticeable trend is observed where the number of reported complications increased from the initial years, peaked around 2008, and then showed a decreasing trend in recent years. This suggests a temporal pattern in reported complications, warranting further investigation into potential factors contributing to these variations.
+
+   ![Graph1](Project_Secrenshoots/complication_over_time.png)
+
+2. **Top 10 Most Common Reported Complications:**
+
+   The horizontal bar plot showcases the top 10 most common reported complications. "Flap Issues" and "Astigmatism" emerge as the most frequently reported complications, indicating that these issues may be more prevalent in laser eye surgery cases. Understanding and addressing these specific complications could contribute to improving overall surgical outcomes and patient satisfaction.
+
+   ![Graph2](Project_Secrenshoots/top_10_most_common_problems.png)
+
+3. **Correlation Heatmap:**
+
+   The correlation heatmap provides insights into the relationships between numerical features. Positive correlations are represented in warmer colors, while negative correlations are in cooler colors. For instance, if certain complications are positively correlated, addressing one complication may positively impact the occurrence of another. On the other hand, negative correlations may indicate situations where the occurrence of one complication is associated with a reduced likelihood of another.
+
+   ![Graph3](Project_Secrenshoots/heatmap_correlation.png)
+
 ## About the Author
 
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
