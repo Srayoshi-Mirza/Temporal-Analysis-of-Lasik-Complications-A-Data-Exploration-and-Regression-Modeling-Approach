@@ -3,11 +3,7 @@
 
 **Introduction**
 
-Welcome to the Lasik (Laser Eye Surgery) Complication Analysis project. This exploration delves into understanding reported complications associated with Lasik procedures by leveraging a comprehensive dataset. The primary objective is to analyze the relationship between reported complications and time, examining trends and potential factors influencing these occurrences.
-
-Throughout this project, I employ data analysis techniques, visualization, and machine learning to gain insights into the Lasik complications dataset. Starting with data loading and exploration, we move through preprocessing steps, feature engineering, and the application of a Linear Regression model. The evaluation metrics offer a quantitative assessment of the model's performance, guiding us in understanding its ability to predict reported complications accurately.
-
-Join Me on this data-driven journey as I uncover patterns, address challenges, and set the stage for future enhancements to improve the model's effectiveness.
+This project delves into the realm of Lasik (Laser Eye Surgery) complications, aiming to unravel insights hidden within a comprehensive dataset. The primary objective is to conduct a meticulous exploration, analyzing the temporal relationship between reported complications and their associated factors. Leveraging advanced techniques in data preprocessing, feature engineering, and linear regression modeling, we seek to shed light on the patterns and challenges inherent in the reported Lasik complications. Join us on this journey as we navigate through data intricacies to derive meaningful conclusions and potentially enhance our understanding of factors influencing the outcomes of Laser Eye Surgery.
 
 ## Dataset
 The dataset focuses on complications reported by patients who underwent Laser Eye Surgeries, particularly Lasik procedures. It spans from June 1997 to April 2019 and is sourced from FDA Public Reports. Each entry in the dataset includes a unique ID, date of the report, complication report text, and keywords associated with the report.
